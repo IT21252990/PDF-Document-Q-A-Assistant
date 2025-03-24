@@ -12,6 +12,11 @@ The PDF Document Q&A Assistant is a web application that allows users to upload 
 - **Real-time Progress**: Shows real-time progress during file upload and processing.
 - **Responsive Design**: The frontend is fully responsive and works on all devices.
 
+## Demo Video
+
+Here is a demo video of the PDF Document Q&A Assistant in action:
+https://github.com/user-attachments/assets/b0e1160a-9401-4713-9945-c3f95b0c2906
+
 ## Technologies Used
 
 ### Backend
@@ -70,17 +75,9 @@ The PDF Document Q&A Assistant is a web application that allows users to upload 
     ```
 
 3. Activate the virtual environment:
-
-    - On Windows:
-        ```bash
-        .venv\Scripts\activate
-        ```
-
-    - On macOS/Linux:
-        ```bash
-        source venv/bin/activate
-        ```
-
+   ```bash
+   .venv\Scripts\activate
+    ```
 4. Install dependencies:
     ```bash
     pip install -r requirements.txt
