@@ -15,6 +15,7 @@ The PDF Document Q&A Assistant is a web application that allows users to upload 
 ## Demo Video
 
 Here is a demo video of the PDF Document Q&A Assistant in action:
+
 https://github.com/user-attachments/assets/b0e1160a-9401-4713-9945-c3f95b0c2906
 
 ## Technologies Used
